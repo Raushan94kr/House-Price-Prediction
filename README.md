@@ -1,2 +1,2 @@
 # House-Price-Prediction
-Add House Price Prediction project
+House Price Prediction using Logistic Regression and Machine Learning
